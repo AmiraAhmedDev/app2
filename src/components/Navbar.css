@@ -1,0 +1,18 @@
+nav{
+    background-color: black;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    
+}
+nav ul li a:hover{
+    color: grey;
+}
